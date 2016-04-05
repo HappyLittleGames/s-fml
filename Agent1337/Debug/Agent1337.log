@@ -1,2 +1,4 @@
 ﻿  Main.cpp
+e:\sfml projects\new folder\agent1337\agent1337\main.cpp(11): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+e:\sfml projects\new folder\agent1337\agent1337\main.cpp(67): warning C4244: 'argument': conversion from 'float' to 'size_t', possible loss of data
   Agent1337.vcxproj -> E:\SFML Projects\New folder\Agent1337\Debug\Agent1337.exe
